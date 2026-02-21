@@ -1,4 +1,4 @@
-##👋 Hi, I'm Robert!
+## 👋 Hi, I'm Robert!
 - 🚀 Fullstack Developer - passionate about clean code
 - 🛠️ Working in: PHP | Laravel, ReactJS, Typescript
 - 🔭 I’m currently working on own PHP-based CMS
